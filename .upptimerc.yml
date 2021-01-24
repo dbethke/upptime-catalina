@@ -20,7 +20,6 @@ sites:
   - name: radarr
     url: $RADARR_URL
   - name: nzbget
-    method: HEAD
     url: $NZBGET_URL
 
 status-website:
