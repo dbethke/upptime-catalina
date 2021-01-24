@@ -1,32 +1,31 @@
-# Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
 
-# Add your sites here
+owner: dbethke
+repo: upptime
+
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Twitter
+    url: https://www.twitter.com
+  - name: Twitch
+    url: https://www.twitch.com
+  - name: SWTOR
+    url: https://www.swtor.com
+  - name: EA
+    url: https://www.ea.com
+  - name: servzilla
+    url: $SERVZILLA_URL
+  - name: sonarr
+    url: $SONARR_URL
+  - name: radarr
+    url: $RADARR_URL
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  name: bethke.casa Status Page
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /upptime
+  introTitle: "**bethke.casa** ain't nothin there."
+  introMessage: This is a status page
   navbar:
     - title: Status
       href: /
