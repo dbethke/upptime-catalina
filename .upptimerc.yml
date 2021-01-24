@@ -19,6 +19,9 @@ sites:
     url: $SONARR_URL
   - name: radarr
     url: $RADARR_URL
+  - name: nzbget
+    method: HEAD
+    url: $NZBGET_URL
 
 status-website:
   name: bethke.casa Status Page
