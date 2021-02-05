@@ -22,19 +22,19 @@
     "url": "https://www.twitter.com",
     "icon": "https://favicons.githubusercontent.com/www.twitter.com",
     "slug": "twitter",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 365,
-    "timeWeek": 334,
-    "timeMonth": 412,
-    "timeYear": 412,
+    "status": "up",
+    "uptime": "98.97%",
+    "uptimeDay": "86.90%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "98.97%",
+    "time": 413,
+    "timeDay": 393,
+    "timeWeek": 345,
+    "timeMonth": 413,
+    "timeYear": 413,
     "dailyMinutesDown": {
-      "2021-02-05": 0
+      "2021-02-05": 189
     }
   },
   {
