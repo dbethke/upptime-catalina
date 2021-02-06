@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/www.twitter.com",
     "slug": "twitter",
     "status": "up",
-    "uptime": "98.98%",
+    "uptime": "99.00%",
     "uptimeDay": "86.90%",
     "uptimeWeek": "98.13%",
-    "uptimeMonth": "98.98%",
-    "uptimeYear": "98.98%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.00%",
     "time": 409,
     "timeDay": 385,
     "timeWeek": 350,
@@ -96,27 +96,29 @@
     "url": "$SERVZILLA_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "servzilla",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 429,
-    "timeDay": 467,
-    "timeWeek": 379,
-    "timeMonth": 429,
-    "timeYear": 429,
-    "dailyMinutesDown": {}
+    "time": 427,
+    "timeDay": 433,
+    "timeWeek": 381,
+    "timeMonth": 427,
+    "timeYear": 427,
+    "dailyMinutesDown": {
+      "2021-02-06": 0
+    }
   },
   {
     "name": "sonarr",
     "url": "$SONARR_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sonarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,16 +127,18 @@
     "timeWeek": 326,
     "timeMonth": 332,
     "timeYear": 332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-06": 0
+    }
   },
   {
     "name": "radarr",
     "url": "$RADARR_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "radarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,7 +147,9 @@
     "timeWeek": 356,
     "timeMonth": 367,
     "timeYear": 367,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-06": 0
+    }
   },
   {
     "name": "nzbget",
