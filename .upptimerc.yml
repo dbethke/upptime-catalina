@@ -15,6 +15,8 @@ sites:
     url: https://www.ea.com
   - name: servzilla
     url: $SERVZILLA_URL
+  - name: pi02
+    url: $PI02_URL  
   - name: sonarr
     url: $SONARR_URL
   - name: radarr
