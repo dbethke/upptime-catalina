@@ -36,5 +36,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: "site/status-page/__sapper__/export/"
-          user_name: "Dan Bot"
-          user_email: "upptime@bethke.casa"
+          user_name: "dbethke"
+          user_email: "daniel.bethke@gmail.com"
