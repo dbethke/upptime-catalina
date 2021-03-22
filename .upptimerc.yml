@@ -31,8 +31,8 @@ sites:
   - name: nzbget
     url: $NZBGET_URL
 
-#use a self-hosted runner
-runner: [self-hosted, linux, ARM64]
+# use a self-hosted runner
+#runner: [self-hosted, Linux, ARM64]
 
 user-agent: dbethke
 
