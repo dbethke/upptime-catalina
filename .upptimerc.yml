@@ -31,6 +31,7 @@ sites:
   - name: nzbget
     url: $NZBGET_URL
 
+#use a self-hosted runner
 runner: [self-hosted, linux, ARM64]
 
 user-agent: dbethke
@@ -46,6 +47,23 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
+# skip setting topics for github pages
+skipTopicsUpdate: true
+
+# commit as this user
+commitMessages:
+  commitAuthorName: "Dan Bot"
+  commitAuthorEmail: "upptime@bethke.casa"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
