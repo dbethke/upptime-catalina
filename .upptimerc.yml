@@ -62,8 +62,8 @@ skipTopicsUpdate: true
 
 # commit as this user
 commitMessages:
-  commitAuthorName: "Dan Bot"
-  commitAuthorEmail: "upptime@bethke.casa"
+  commitAuthorName: "dbethke"
+  commitAuthorEmail: "daniel.bethke@gmail.com"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
