@@ -9,20 +9,31 @@ sites:
     url: https://www.twitter.com
   - name: Twitch
     url: https://www.twitch.com
+    icon: https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png
   - name: SWTOR
     url: https://www.swtor.com
+    icon: https://cdn-www.swtor.com//sites/all/files/favicon.ico
   - name: EA
     url: https://www.ea.com
+    icon: https://www.ea.com/assets/images/favicon.png
   - name: servzilla
     url: $SERVZILLA_URL
+    icon: https://www.synology.com/img/icon/favicon@2x.png
   - name: pi02
     url: $PI02_URL  
+    icon: https://www.raspberrypi.org/homepage-9df4b/favicon.png
   - name: sonarr
     url: $SONARR_URL
+    icon: https://sonarr.tv/img/favicon.ico
   - name: radarr
     url: $RADARR_URL
+    icon: https://radarr.video/img/favicon.ico
   - name: nzbget
     url: $NZBGET_URL
+
+runner: [self-hosted, linux, ARM64]
+
+user-agent: dbethke
 
 status-website:
   name: bethke.casa Status Page
