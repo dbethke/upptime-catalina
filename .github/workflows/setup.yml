@@ -18,7 +18,7 @@ on:
 jobs:
   release:
     name: Setup Upptime
-    runs-on: self-hosted
+    runs-on: ubuntu-18.04
     steps:
       - name: Checkout
         uses: actions/checkout@v2.3.3
@@ -54,11 +54,11 @@ jobs:
         with:
           command: "site"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: peaceiris/actions-gh-pages@v3.7.3
+          GH_PAT: ${{ secrets.GH_PAT }}
+      - uses: maxheld83/ghpages@v0.3.0
         name: GitHub Pages Deploy
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: "site/status-page/__sapper__/export/"
+        env:
+          BUILD_DIR: "site/status-page/__sapper__/export/"
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
           user_name: "Dan Bot"
           user_email: "upptime@bethke.casa"
