@@ -7,9 +7,9 @@ sites:
     url: https://www.google.com
   - name: Twitter
     url: https://www.twitter.com
-  - name: Twitch
-    url: https://www.twitch.com
-    icon: https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png
+#  - name: Twitch
+#    url: https://www.twitch.com
+#    icon: https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png
   - name: SWTOR
     url: https://www.swtor.com
     icon: https://cdn-www.swtor.com//sites/all/files/favicon.ico
