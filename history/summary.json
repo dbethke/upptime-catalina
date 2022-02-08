@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 66,
-    "timeWeek": 207,
-    "timeMonth": 112,
+    "timeDay": 65,
+    "timeWeek": 61,
+    "timeMonth": 111,
     "timeYear": 107,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 409,
-    "timeDay": 812,
-    "timeWeek": 365,
+    "timeDay": 259,
+    "timeWeek": 359,
     "timeMonth": 390,
-    "timeYear": 410,
+    "timeYear": 409,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 296,
-    "timeWeek": 222,
-    "timeMonth": 244,
+    "timeDay": 267,
+    "timeWeek": 236,
+    "timeMonth": 240,
     "timeYear": 218,
     "dailyMinutesDown": {}
   },
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
-    "timeDay": 244,
-    "timeWeek": 283,
-    "timeMonth": 252,
+    "timeDay": 311,
+    "timeWeek": 290,
+    "timeMonth": 251,
     "timeYear": 275,
     "dailyMinutesDown": {}
   },
@@ -77,7 +77,7 @@
     "icon": "https://www.synology.com/img/icon/favicon@2x.png",
     "slug": "servzilla",
     "status": "down",
-    "uptime": "11.90%",
+    "uptime": "11.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -86,9 +86,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 345,
+    "timeYear": 346,
     "dailyMinutesDown": {
-      "2022-02-07": 51,
+      "2022-02-08": 53,
+      "2022-02-07": 1440,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
@@ -422,8 +423,7 @@
       "2021-02-22": 60,
       "2021-02-17": 1381,
       "2021-02-16": 1440,
-      "2021-02-15": 910,
-      "2021-02-08": 231
+      "2021-02-15": 910
     }
   },
   {
@@ -450,18 +450,19 @@
     "icon": "https://sonarr.tv/img/favicon.ico",
     "slug": "sonarr",
     "status": "up",
-    "uptime": "11.89%",
+    "uptime": "11.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "8.57%",
-    "time": 554,
-    "timeDay": 259,
-    "timeWeek": 253,
-    "timeMonth": 262,
+    "time": 553,
+    "timeDay": 264,
+    "timeWeek": 250,
+    "timeMonth": 261,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2022-02-07": 51,
+      "2022-02-08": 53,
+      "2022-02-07": 1440,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
@@ -795,8 +796,7 @@
       "2021-02-22": 60,
       "2021-02-17": 1389,
       "2021-02-16": 1440,
-      "2021-02-15": 910,
-      "2021-02-08": 231
+      "2021-02-15": 910
     }
   },
   {
@@ -805,18 +805,19 @@
     "icon": "https://radarr.video/img/favicon.ico",
     "slug": "radarr",
     "status": "up",
-    "uptime": "11.90%",
+    "uptime": "11.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "8.58%",
-    "time": 320,
-    "timeDay": 396,
-    "timeWeek": 260,
+    "time": 319,
+    "timeDay": 213,
+    "timeWeek": 258,
     "timeMonth": 262,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2022-02-07": 51,
+      "2022-02-08": 53,
+      "2022-02-07": 1440,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
@@ -1150,8 +1151,7 @@
       "2021-02-22": 60,
       "2021-02-17": 1381,
       "2021-02-16": 1440,
-      "2021-02-15": 909,
-      "2021-02-08": 231
+      "2021-02-15": 909
     }
   },
   {
@@ -1166,9 +1166,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 284,
-    "timeDay": 230,
-    "timeWeek": 225,
-    "timeMonth": 235,
+    "timeDay": 244,
+    "timeWeek": 226,
+    "timeMonth": 236,
     "timeYear": 269,
     "dailyMinutesDown": {}
   }
