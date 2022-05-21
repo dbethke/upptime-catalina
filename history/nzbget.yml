@@ -1,7 +1,7 @@
 url: $NZBGET_URL
 status: down
-code: 401
-responseTime: 230
-lastUpdated: 2022-05-20T23:08:32.947Z
+code: 404
+responseTime: 428
+lastUpdated: 2022-05-21T23:08:27.577Z
 startTime: Sun Jan 24 2021 03:31:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
